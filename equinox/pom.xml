@@ -117,13 +117,13 @@
 	</build>
 
 	 <modules> 
+	 	<module>equinox-config</module>
     		<module>equinox-commons</module>
+    		<module>equinox-utils</module>
+    		<module>equinox-ds</module>
+    		<module>equinox-ds-filestore</module>
+    		<module>equinox-ds-mongo</module>
     		<module>equinox-ds-cassandra</module>
-    		<module>equinox-web</module>
-    <module>equinox-ds-mongo</module>
-    <module>equinox-config</module>
-    <module>equinox-ds</module>
-    <module>equinox-ds-filestore</module>
-    <module>equinox-utils</module>
-  </modules>
+    		<module>equinox-web</module> 
+  	</modules>
 </project>

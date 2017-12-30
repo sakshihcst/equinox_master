@@ -121,5 +121,9 @@
     		<module>equinox-ds-cassandra</module>
     		<module>equinox-web</module>
     <module>equinox-ds-mongo</module>
+    <module>equinox-config</module>
+    <module>equinox-ds</module>
+    <module>equinox-ds-filestore</module>
+    <module>equinox-utils</module>
   </modules>
 </project>
